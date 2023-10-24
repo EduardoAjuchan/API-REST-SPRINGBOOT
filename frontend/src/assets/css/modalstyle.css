@@ -1,0 +1,27 @@
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    z-index: 1000;
+  }
+  
+  .modal label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .modal input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .modal button {
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  

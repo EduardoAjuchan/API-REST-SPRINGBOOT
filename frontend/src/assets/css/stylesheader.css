@@ -1,0 +1,16 @@
+.header {
+    background-image: linear-gradient(to right, #00b3ff, #00e6ff);
+    padding-bottom: 8rem;
+    padding-top: 5rem;
+  }
+  
+  .header-body {
+    text-align: left;
+  }
+  
+  h1 {
+  
+    margin-left: 2rem;
+    font-size: 3rem;
+  }
+  
